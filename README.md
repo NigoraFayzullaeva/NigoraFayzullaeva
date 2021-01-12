@@ -8,6 +8,9 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NigoraFayzullaeva&show_icons=true&theme=radical)
 
+<br>
+Technologies:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NigoraFayzullaeva&layout=compact)](https://github.com/NigoraFayzullaeva/github-readme-stats)
 
 
