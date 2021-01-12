@@ -2,6 +2,9 @@
 
 🎓 Currently I'm a student of Akdeniz University. I study Computer Science and Mathematics 💻
 
+ <img align="right" alt="GIF" src="https://github.com/NigoraFayzullaeva/NigoraFayzullaeva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup). 
 
 <br>
