@@ -27,7 +27,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NigoraFayzullaeva&layout=compact)](https://github.com/NigoraFayzullaeva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NigoraFayzullaeva&layout=compact)](https://github.com/NigoraFayzullaeva/github-readme-stats&theme=radical)
 
 
 
