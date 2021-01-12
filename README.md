@@ -1,4 +1,4 @@
-### Hey there 🙋🏽‍♀️ I'm Nigora Fayzullaeva
+### Hello World! 🙋🏽‍♀️ I'm Nigora Fayzullaeva
 
 🎓 Currently I'm a student of Akdeniz University. I study Computer Science and Mathematics 💻
 
