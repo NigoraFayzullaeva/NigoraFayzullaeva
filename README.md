@@ -27,7 +27,7 @@ I'm a Full-Stack Developer who is passionate about making open-source more acces
 <br>
 <br>
 
-### Social Media:
+## Social Media:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nigora-fayzullaeva-744954190/)](https://www.linkedin.com/in/nigora-fayzullaeva-744954190/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ni.fayzullaeva/)](https://www.instagram.com/ni.fayzullaeva/)
