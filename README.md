@@ -4,7 +4,6 @@
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup). 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NigoraFayzullaeva)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NigoraFayzullaeva&show_icons=true&theme=radical)
 
 
