@@ -1,6 +1,7 @@
 ### Hey there 🙋🏽‍♀️ I'm Nigora Fayzullaeva
 
 🎓 Currently I'm a student of Akdeniz University. I study Computer Science and Mathematics 💻
+https://www.ft.com/__origami/service/image/v2/images/raw/ftsocial:twitter?source=test
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup). 
 
