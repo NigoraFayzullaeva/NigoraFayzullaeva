@@ -34,4 +34,4 @@ I'm a Full-Stack Developer who is passionate about making open-source more acces
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nivelikorodova@gmail.com)](mailto:nivelikorodova@gmail.com)
 
 
-<p>Give a ⭐️ if my projects helped you!</p>
+<p>Give a ⭐️ if my projects helped you!)</p>
