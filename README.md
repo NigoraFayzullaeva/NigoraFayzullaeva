@@ -13,12 +13,8 @@
   </a>&nbsp;&nbsp;
 </p>
 
-
-
-
-<br>
 <p align='center'>
-(https://github-readme-stats.vercel.app/api?username=NigoraFayzullaeva&show_icons=true&theme=radical)
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <br>
