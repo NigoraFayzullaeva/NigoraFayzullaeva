@@ -1,5 +1,8 @@
 ## Hello World! I'm Nigora Fayzullaeva 🙋🏽‍♀️ 
 
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+
+
 🎓 Currently I'm a student of Akdeniz University. I study Computer Science and Mathematics 💻
 
 
