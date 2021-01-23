@@ -32,13 +32,7 @@
 </p>
 
 
-<p align='center'>
-  Social Media:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nigora-fayzullaeva-744954190/)](https://www.linkedin.com/in/nigora-fayzullaeva-744954190/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ni.fayzullaeva/)](https://www.instagram.com/ni.fayzullaeva/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nivelikorodova@gmail.com)](mailto:nivelikorodova@gmail.com)
-</p>
 
 
  
