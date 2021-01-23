@@ -13,7 +13,7 @@
   </a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-  📫 How to reach me: <a href='mailto:nifayzi@gmail.com'>alexandreslima@outlook.com</a>
+  📫 How to reach me: <a href='mailto:nifayzi@gmail.com'>nifayzi@gmail.com</a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NigoraFayzullaeva&show_icons=true&count_private=true&theme=dark" width="350"></a>
