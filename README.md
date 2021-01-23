@@ -11,16 +11,15 @@
   <a href="https://instagram.com/ni.fayzullaeva">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
 
 
-I'm a Full-Stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup). 
+
 
 <br>
-
+<p align='center'>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NigoraFayzullaeva&show_icons=true&theme=radical)
-
+</p>
 
 <br>
 
@@ -43,6 +42,6 @@ I'm a Full-Stack Developer who is passionate about making open-source more acces
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nigora-fayzullaeva-744954190/)](https://www.linkedin.com/in/nigora-fayzullaeva-744954190/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ni.fayzullaeva/)](https://www.instagram.com/ni.fayzullaeva/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nivelikorodova@gmail.com)](mailto:nivelikorodova@gmail.com)
-
+I'm a Full-Stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup). 
 
 <p>Give a ⭐️ if my projects helped you!)</p>
