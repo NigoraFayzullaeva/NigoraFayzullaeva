@@ -19,7 +19,10 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NigoraFayzullaeva&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 <p align='center'>
-   Languages and Tools:
+Languages and Tools:
+  </p>
+<p align='center'>
+   
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
