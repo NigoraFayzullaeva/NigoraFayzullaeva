@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NigoraFayzullaeva)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NigoraFayzullaeva)](https://github.com/NigoraFayzullaeva/github-readme-stats)
 
 <p align='center'>
 
