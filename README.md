@@ -18,7 +18,7 @@
 
 <br>
 <p align='center'>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NigoraFayzullaeva&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=NigoraFayzullaeva&show_icons=true&theme=radical)
 </p>
 
 <br>
