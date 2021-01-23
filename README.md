@@ -1,4 +1,6 @@
-## Hello World! I'm Nigora Fayzullaeva 🙋🏽‍♀️ 
+<h1 align='center'>
+  Hi there 👋 I'm Nigora 👩🏽‍💻
+</h1>
 
 🎓 Currently I'm a student of Akdeniz University. I study Computer Science and Mathematics 💻
 
