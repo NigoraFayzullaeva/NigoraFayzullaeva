@@ -48,8 +48,10 @@ Skills:
   <br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
-
-
+<br>
+<p align='center'>
+  ⭐ repos if you like them
+</p>  
  
 
 
