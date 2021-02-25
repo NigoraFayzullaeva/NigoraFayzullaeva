@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋🏽 I'm Nigora 👩🏽‍💻
+  hey there 👋🏽 I'm Nigora 👩🏽‍💻
 </h1>
 <p align='center'>
   🎓 Student of Akdeniz University. I study Computer Science and Mathematics 💻
