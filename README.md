@@ -28,7 +28,7 @@
 </p>
 
 <p align='center'>
-Skills:
+Skills & Tools:
 </p>
 
 <p align='center'>
@@ -47,6 +47,7 @@ Skills:
 
   <br>
   <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
